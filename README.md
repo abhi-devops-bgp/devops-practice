@@ -9,7 +9,7 @@ Welcome to my Devops Learning Journey.
 5. [Backup Automation](#backup-automation)
 6. [AWS Cloud](#aws-cloud)
 
-## Linux Command
+## Linux Commands
 Learning Linux bascics and commands.
 
 ## Shell Scripting
